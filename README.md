@@ -1,12 +1,20 @@
-# Wallet UI
+<div align="center">
+
+# EVM Wallet Viewer
 
 A clean and intuitive web interface for viewing cryptocurrency wallet balances and token holdings across EVM-compatible blockchains.
+
+</div>
+
+<div align="center">
 
 ## Preview
 
 ![Wallet UI Demo](preview.gif)
 
-*Wallet UI in action - view token balances and portfolio values in real-time*
+*View token balances and portfolio values in real-time*
+
+</div>
 
 ## Features
 
@@ -39,8 +47,8 @@ A clean and intuitive web interface for viewing cryptocurrency wallet balances a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/aviexk/wallet-ui.git
-cd wallet-ui
+git clone https://github.com/aviexk/evm-wallet-viewer.git
+cd evm-wallet-viewer
 ```
 
 2. Install dependencies:
